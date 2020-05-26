@@ -52,7 +52,7 @@ python CreditCardFraud.py
 El archivo ```.ipynb``` se ejecuta en un entorno notebook python como Google Colab o Jupyter.
 
 
-##Dependencias
+## Dependencias
 
 Para instalar las dependencias debe de ejecutar los siguientes comandos:
 
