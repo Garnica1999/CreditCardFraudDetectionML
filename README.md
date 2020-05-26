@@ -1,7 +1,7 @@
 # CreditCardFraudDetectionML
 Deteccion de fraudes de tarjetas de credito usando Machile Learning usando distintos algoritmos y haciendo comparaciones de rendimiento con respecto a la clasificacion de transacciones.
 
-> NOTA: Para visualizar el archivo ```.ipynb``` debe estar a que sea cargado, tardara un rato debido al backend de GitHub. En caso de que no abra puede utilizar [este enlace para visualizar este archivo.](https://nbviewer.jupyter.org/github/Garnica1999/CreditCardFraudDetectionML/blob/master/CreditCardFraud.ipynb)
+> NOTA: Para visualizar el archivo ```.ipynb``` debe esperar a que cargue completamente, tardara un rato debido al backend de GitHub. En caso de que no abra puede utilizar [este enlace para visualizar este archivo.](https://nbviewer.jupyter.org/github/Garnica1999/CreditCardFraudDetectionML/blob/master/CreditCardFraud.ipynb)
 
 ## Descripcion
 
